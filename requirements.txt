@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+lightgbm
+imbalanced-learn
+shap
+matplotlib
+seaborn
+jupyter
+torch
+openpyxl
