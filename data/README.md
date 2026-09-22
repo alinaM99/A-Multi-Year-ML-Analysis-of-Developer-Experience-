@@ -1,6 +1,8 @@
 # Data
 
-This project uses the Stack Overflow Developer Survey datasets from 2022, 2024 and 2025.
+The analysis uses data from the official [Stack Overflow Developer Survey](https://survey.stackoverflow.co/) for 2022, 2024 and 2025.
+
+The original survey datasets are not included in this repository.
 
 The original survey datasets are not included in this repository.
 
